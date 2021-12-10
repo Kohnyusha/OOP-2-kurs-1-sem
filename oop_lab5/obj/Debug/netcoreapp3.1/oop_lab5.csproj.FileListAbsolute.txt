@@ -1,0 +1,4 @@
+D:\2 курс\ООП Пацей\oop_lab5\obj\Debug\netcoreapp3.1\oop_lab5.csprojAssemblyReference.cache
+D:\2 курс\ООП Пацей\oop_lab5\obj\Debug\netcoreapp3.1\oop_lab5.AssemblyInfoInputs.cache
+D:\2 курс\ООП Пацей\oop_lab5\obj\Debug\netcoreapp3.1\oop_lab5.AssemblyInfo.cs
+D:\2 курс\ООП Пацей\oop_lab5\obj\Debug\netcoreapp3.1\oop_lab5.csproj.CoreCompileInputs.cache
